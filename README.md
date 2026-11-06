@@ -15,13 +15,6 @@ synthetic-data generation.
   --------------------------------------------------------------------------------------
   File                                               Description
   -------------------------------------------------- -----------------------------------
-  `NSL_KDD_Imbalanced_Classification.ipynb`          Baseline classification workflow on
-                                                     the original, imbalanced NSL-KDD
-                                                     data, including preprocessing,
-                                                     autoencoder representation
-                                                     learning, classifier evaluation,
-                                                     and figures.
-
   `NSL_KDD_ACGAN_GP_Balanced_Classification.ipynb`   NSL-KDD workflow incorporating
                                                      autoencoder representations and
                                                      ACGAN-GP-based synthetic-data
